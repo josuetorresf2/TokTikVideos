@@ -1,6 +1,7 @@
 # toktik_video_for_show
 
 A new Flutter project.
+Add rest of project once github education is validated [REMEMBER] AND DELETE THIS COMMENT!!!!!!!!!!!
 
 ## Getting Started
 
